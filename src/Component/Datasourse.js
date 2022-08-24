@@ -5,11 +5,18 @@ console.log(id)
 export const datasourse = [
           {
             id:id++,
+            title: "Do you know why chameleons change their color?",
+            description: "Let me tell you If you think they change their color according to the background or to save themselves from enemies, then this is not the actual reason. Chameleons change their color according to their mood or according to their body temperature. At high temp, their color could be light and at low temp their color could be dark. They also change their color according to their mood. But how they change? It contains some special cells in their skin which have different pigment. if cells are close to each other will reflect low wavelength color and if cells are at distance then they reflect high wave length color. ",
+            img: "https://cdn.pixabay.com/photo/2014/07/05/17/30/chameleon-384964_960_720.jpg",
+            ReadMore: "https://getbootstrap.com/docs/5.2/components/card/#horizontal",
+          }, 
+          {
+            id:id++,
             title: "What is Urophagia ?",
             description: "It is nothing but the consumption of urine. We don't have knowledge that it is good for our health or not. Then why do people drink it. People drink it in the time of emergency, when there is no water available and the reason behind to drink is to hydrate body because this is the last option to hydrate body by drinking your own pee. ",
             img: "https://cdn.pixabay.com/photo/2013/10/23/09/04/beer-199650_960_720.jpg",
             ReadMore: "https://getbootstrap.com/docs/5.2/components/card/#horizontal",
-        }, 
+          }, 
           {
               id:id++,
               title: "You probably wonder why coconut oil freezes during winter !",
@@ -77,7 +84,7 @@ export const datasourse = [
      id:id++,
       title: "Do you know why we cannot digest hair ?",
       description: "Hair is made up of proteins called keratin which cannot be broken down by our body. They can only be processed at very high temperatures which do not exist inside our body. So, when you swallow small strands of hair accidentally, they just end up passing out of the body with other undigested food.But one swallow large amount of hair then it will create problem. Those hairs will convert into hairball and create blockage in your stomach what will create problem in your daily activity inside your body.Soon you have to go to hospital for the operation. ",
-      img: "http://cdn.shopify.com/s/files/1/2028/2057/articles/Hair-Rebonding_2c843ccc-6854-4ea9-9afa-00f1af8e339f_1024x1024.jpg",
+      img: "https://cdn.pixabay.com/photo/2016/11/23/17/30/woman-1853957_960_720.jpg",
       ReadMore: "https://getbootstrap.com/docs/5.2/components/card/#horizontal",
       
 
