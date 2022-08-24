@@ -3,7 +3,36 @@ let id=0;
 console.log(id)
 
 export const datasourse = [
-          {
+          
+            {
+              id:id++,
+              title: "Sweeping the floor in the evening is not a good, Why?",
+              description: " You can sweep the floor in the evening but not throw the trash out of the house. It is a common belief in Hindu households that you sweep Goddess Laxmi out of your house! People couldn't see at night and what if there's something valuable that has been swept with the trash. But, now you need to worry only about hygiene! ",
+              img: "https://cdn.pixabay.com/photo/2019/08/21/09/31/monk-4420676_960_720.jpg",
+              ReadMore: "https://getbootstrap.com/docs/5.2/components/card/#horizontal",
+            },
+            {
+              id:id++,
+              title: "It is not advisable for women to enter the kitchen when they are menstruating",
+              description: "Menstruation causes a wall of blood and cells in the uterus to break down due to hormonal changes, resulting in pain throughout the body.Furthermore, it is accompanied by heavy bleeding for five days (imagine that without sanitary napkins). It was because women needed to rest during those four-five days rather than because they were impure that they were not allowed to enter the kitchen or to help with household chores.",
+              img: "https://cdn.pixabay.com/photo/2021/03/09/06/24/woman-6080984_960_720.jpg",
+              ReadMore: "https://getbootstrap.com/docs/5.2/components/card/#horizontal",
+            },
+            {
+              id:id++,
+              title: "Why in Indian tradition Nail-cutting at night is not recommended ?",
+              description: "What is the point of not cutting your nails at night? Just because your parents says. Let's talk about the past. In those days, there was no electricity, so it was difficult to see, increasing the chances of cutting your nail bed or finger with whatever primitive tools they used to cut nails at night.",
+              img: "https://cdn.pixabay.com/photo/2020/06/01/07/51/health-care-5245558_960_720.jpg",
+              ReadMore: "https://getbootstrap.com/docs/5.2/components/card/#horizontal",
+            }, 
+            {
+              id:id++,
+              title: "Taking a break from sewing at night",
+              description: "The rule of not sewing clothes at night follows the same logic as not cutting your nails at night.It is best not to sew at night (without electricity) since needles are sharp objects",
+              img: "https://cdn.pixabay.com/photo/2016/03/02/18/02/sew-1232723_960_720.jpg",
+              ReadMore: "https://getbootstrap.com/docs/5.2/components/card/#horizontal",
+            }, 
+           {
             id:id++,
             title: "Do you know why chameleons change their color?",
             description: "Let me tell you If you think they change their color according to the background or to save themselves from enemies, then this is not the actual reason. Chameleons change their color according to their mood or according to their body temperature. At high temp, their color could be light and at low temp their color could be dark. They also change their color according to their mood. But how they change? It contains some special cells in their skin which have different pigment. if cells are close to each other will reflect low wavelength color and if cells are at distance then they reflect high wave length color. ",
