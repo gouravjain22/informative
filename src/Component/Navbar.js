@@ -1,13 +1,13 @@
 import React from 'react'
 
-export default function Navbar() {
+export default function Navbar(prob) {
   return (
     <div>
       
   
-<nav className="navbar navbar-dark bg-dark">
+<nav className="navbar navbar-dark bg-dark navbar " >
   <div className="container-fluid">
-    <a className="navbar-brand" href="/">Informative</a>
+    <a className="navbar-brand" href="/">{prob.title}</a>
   </div>
 </nav>
 

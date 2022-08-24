@@ -6,8 +6,12 @@ import Blog from './Component/Blog'
 function App() {
   return (
     <>
-    <Navbar></Navbar>
-    <Blog title=""></Blog>
+    
+    <Navbar title="Informative"></Navbar>
+    <div className='container'>
+      <br></br>
+    </div>
+    <Blog ></Blog>
     </>
   );
 }
