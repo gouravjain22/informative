@@ -3,7 +3,7 @@ import Data from './data'
 import {datasourse} from './Datasourse'
 
 export default function Blog() {
-    const [ data, setdata] = useState(datasourse);
+    const [ data] = useState(datasourse);
   return (
     <>
         <div>

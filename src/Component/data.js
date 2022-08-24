@@ -12,7 +12,7 @@ export default function data({title,description,img, ReadMore}) {
                 <div className="card-body">
                     <h5 className="card-title">{title}</h5>
                     <p className="card-text">{description}</p>
-                    <button type="button" class="btn btn-secondary btn-sm" href={ReadMore}><a href={ReadMore}>read more</a></button>
+                    {/* <button type="button" className="btn btn-secondary btn-sm" href={ReadMore}><a href={ReadMore}>read more</a></button> */}
              
                 </div> 
                 

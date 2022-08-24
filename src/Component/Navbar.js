@@ -7,7 +7,7 @@ export default function Navbar() {
   
 <nav className="navbar navbar-dark bg-dark">
   <div className="container-fluid">
-    <a className="navbar-brand" href="/">Navbar</a>
+    <a className="navbar-brand" href="/">Informative</a>
   </div>
 </nav>
 
