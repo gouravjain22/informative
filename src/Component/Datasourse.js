@@ -6,6 +6,26 @@ export const datasourse = [
           
             {
               id:id++,
+              title: "What is Point Nemo on Earth",
+              description: " Nemo is a Latin word which means nobody. Nemo is the Point on Earth Which is at Ocean, In that place nearest Land is at more than 2000 km. One of the Pitcairn Islands is closest to the pole to the north, one of the Easter Islands is closest to the northeast, and one island off the coast of Antarctica is closest to the south. As a result of lack of food, no living creature comes at that point or near it  ",
+              img: "https://media.boatsnews.com/src/images/news/articles/ima-image-35068.jpg",
+            },
+            {
+              id:id++,
+              title: "Nohleshwar Shiv Temple",
+              description: " In the mid to late 10th century, the Kalachuris of Tripuri (also known as Kalachuris of Chedi) built Nohleshwar Shiv Mandir, a lesser-known architectural masterpiece. Although locals claim that this temple was built by Yuvarajadeva I in honor of his wife Nohla Devi (Nohala according to some), its architectural style and detailing suggest that it was constructed after his time. About 6 feet in height and 100 feet long, the temple sits majestically on a high and wide platform. There are many sculptures of gods, goddesses, dancers, apsaras, sages, scenes from the Puranas, Shiva in various forms such as Nataraja, Andhakantaka, and Vinadhara, as well as repetitive floral, geometric, animal, bird, and auspicious Hindu motifs on the external facades. ",
+              img: "https://sahasahobbyistmagazine.files.wordpress.com/2021/10/nohleshwar-shiv-temple-nohta-damoh-district-madhya-pradesh.jpg",
+              ReadMore: "https://getbootstrap.com/docs/5.2/components/card/#horizontal",
+            },
+            {
+              id:id++,
+              title: "Rani durgawati fort",
+              description: " The historical Durgavati fort is located in Madan Mahal Fort, a suburb of Jabalpur. In Jabalpur town, there is a small but enchanting fort of the Rajgond rulers. It was very tough to go up to the Fort.Through a flight of stairs carved into the rock, one can access the top of the fort, which offers superb views of Jabalpur.  Though not exactly an architectural marvel, the little fort is characterized by intrigue of ancient monuments in India. The monument is situated at a height of about five hundred meters on the hill of same name.  ",
+              img: "https://1.bp.blogspot.com/-R9Vf3R1yGys/X3YNeI4cL6I/AAAAAAAAAU4/WwXHshlAOn8mMOOlWp85FJvskkGYtEJ4wCLcBGAsYHQ/w1200-h630-p-k-no-nu/madan-mahal-fort-rani-durgavati-fort-mandla-jabalpur-tourist-attraction.jpg",
+              ReadMore: "https://getbootstrap.com/docs/5.2/components/card/#horizontal",
+            },
+            {
+              id:id++,
               title: "Sweeping the floor in the evening is not a good, Why?",
               description: " You can sweep the floor in the evening but not throw the trash out of the house. It is a common belief in Hindu households that you sweep Goddess Laxmi out of your house! People couldn't see at night and what if there's something valuable that has been swept with the trash. But, now you need to worry only about hygiene! ",
               img: "https://cdn.pixabay.com/photo/2019/08/21/09/31/monk-4420676_960_720.jpg",

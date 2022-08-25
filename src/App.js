@@ -7,7 +7,7 @@ function App() {
   return (
     <>
     
-    <Navbar title="Informative"></Navbar>
+    <Navbar title="Informative Spot"></Navbar>
     <div className='container'>
       <br></br>
     </div>
