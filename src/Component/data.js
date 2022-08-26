@@ -12,7 +12,7 @@ export default function data({title,description,img, ReadMore}) {
                 <div className="card-body">
                     <h5 className="card-title">{title}</h5>
                     <p className="card-text">{description} </p>
-                    <a href={ReadMore} className="link-secondary">Read More</a>
+                    <a href={ReadMore} target="_blank"  rel="noreferrer" className="link-secondary">Read More</a>
                     
                              {/* <div class="collapse" id="collapseExample">
                             
