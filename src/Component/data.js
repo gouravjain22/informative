@@ -11,7 +11,8 @@ export default function data({title,description,img, ReadMore}) {
             <div className="col-md-8">
                 <div className="card-body">
                     <h5 className="card-title">{title}</h5>
-                    <p className="card-text">{description}
+                    <p className="card-text">{description} </p>
+                    <a href={ReadMore} className="link-secondary">Read More</a>
                     
                              {/* <div class="collapse" id="collapseExample">
                             
@@ -23,7 +24,7 @@ export default function data({title,description,img, ReadMore}) {
                             <button class="btn btn-primary" type="button" data-bs-toggle="collapse" data-bs-target="#collapseExample" aria-expanded="false" aria-controls="collapseExample">
                                read
                             </button> */}
-                    </p>
+                    
                 </div> 
                 
             </div>
