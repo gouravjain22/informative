@@ -6,6 +6,12 @@ export const datasourse = [
           
             {
               id:id++,
+              title: "The process of generating a 10 digit PAN card number",
+              description: " An Indian PAN card consists of ten digits, the first 3 of which are random alphabets, the 4th alphabet is the type of card such as 'P' personal, 5th alphabet is the surname of the holder, from 6th to 9th digits are random digits, and the 10th digit is a mathematics calculation.  ",
+              img: "https://www.godigit.com/content/dam/godigit/directportal/en/contenthm/pan-card.jpg",
+            },
+            {
+              id:id++,
               title: "What is Point Nemo on Earth",
               description: " Nemo is a Latin word which means nobody. Nemo is the Point on Earth Which is at Ocean, In that place nearest Land is at more than 2000 km. One of the Pitcairn Islands is closest to the pole to the north, one of the Easter Islands is closest to the northeast, and one island off the coast of Antarctica is closest to the south. As a result of lack of food, no living creature comes at that point or near it  ",
               img: "https://media.boatsnews.com/src/images/news/articles/ima-image-35068.jpg",
