@@ -6,6 +6,27 @@ export const datasourse = [
           
             {
               id:id++,
+              title: "22 June 2022 was the smallest day ?", 
+              description: " Every year earth rotation creates a new record. if we talk about 2022 a record was set when the Earth completed its rotation in 1.59 milliseconds less than 24 hours. If could be multiple reasons because of climate change,", 
+              img: "https://cdn.pixabay.com/photo/2017/01/20/05/48/earth-1994069_960_720.png",
+              ReadMore: "https://in.ign.com/india/173971/news/earth-recorded-the-shortest-day-ever-in-recorded-history-on-june-29-2022"
+            },
+            {
+              id:id++,
+              title: "What is 'temperature-dependent sex determination' ?",
+              description: " Temperature determines whether an egg will produce a male or female offspring. Turtle hatchlings are male if their eggs are incubated below 27.7° Celsius (81.86° Fahrenheit).Hatching will be female if the eggs are incubated above 31° Celsius (88.8° Fahrenheit)",
+              img: "https://cdn.pixabay.com/photo/2014/08/06/16/52/terrapin-411853_960_720.jpg",
+              ReadMore: "https://oceanservice.noaa.gov/facts/temperature-dependent.html#:~:text=The%20temperature%20of%20the%20developing%20eggs%20is%20what,%2881.86%C2%B0%20Fahrenheit%29%2C%20the%20turtle%20hatchlings%20will%20be%20male."
+            },
+            {
+              id:id++,
+              title: "No charge for UPI payments, said the finance minister",
+              description: " Nirmala Sitharaman, the finance minister, said that the government sees digital payments as a public good and is not ready to charge for them. India can also achieve transparency through digitisation, the minister said. We (Centre) see digital payments as a public good. People should be able to access it freely so that the digitisation of the Indian economy becomes attractive.As a result of digitization, we can also achieve transparency, said the finance minister on Friday in New Delhi.",
+              img: "https://upload.wikimedia.org/wikipedia/commons/5/5b/Smt._Nirmala_Sitharaman_addressing_a_press_conference_on_June_28%2C_2021%2C_in_New_Delhi_%28cropped%29.jpg",
+              ReadMore: "https://www.news18.com/amp/news/business/fm-nirmala-sitharaman-not-the-right-time-to-make-digital-payments-chargeable-5831299.html?utm_campaign=fullarticle&utm_medium=referral&utm_source=inshorts"
+            },
+            {
+              id:id++,
               title: "The process of generating a 10 digit PAN card number",
               description: " An Indian PAN card consists of ten digits, the first 3 of which are random alphabets, the 4th alphabet is the type of card such as 'P' personal, 5th alphabet is the surname of the holder, from 6th to 9th digits are random digits, and the 10th digit is a mathematics calculation.  ",
               img: "https://www.godigit.com/content/dam/godigit/directportal/en/contenthm/pan-card.jpg",
