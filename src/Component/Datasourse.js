@@ -6,6 +6,13 @@ export const datasourse = [
           
             {
               id:id++,
+              title: "The Indian team beat Pakistan in the last over to record their highest successful T20I chase against Pakistan", 
+              description: " In Asia Cup 2022, India defeated Pakistan by five wickets after chasing down a 148-run target. This was India's highest successful run chase in a T20I against Pakistan. They had previously chased down a 131-run target against Pakistan on March 21, 2014. On Wednesday, India will face Hong Kong.", 
+              img: "https://www.mykhel.com/img/2020/02/team-india-t20i-series-win-1580648187.jpg",
+              ReadMore: "https://www.icc-cricket.com/match/101155?utm_campaign=fullarticle&utm_medium=referral&utm_source=inshorts#scorecard"
+            },
+            {
+              id:id++,
               title: "22 June 2022 was the smallest day ?", 
               description: " Every year earth rotation creates a new record. if we talk about 2022 a record was set when the Earth completed its rotation in 1.59 milliseconds less than 24 hours. If could be multiple reasons because of climate change,", 
               img: "https://cdn.pixabay.com/photo/2017/01/20/05/48/earth-1994069_960_720.png",
