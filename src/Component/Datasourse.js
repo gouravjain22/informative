@@ -6,6 +6,13 @@ export const datasourse = [
           
             {
               id:id++,
+              title: "Why do doctors wear green in the operation theatre?", 
+              description: "If we go to spectrum you will see blue and red are just opposite at their places. Doctor need to focus on red color during operation. Other Reason could be, a doctor can refresh his vision by looking at blue or green things during surgery, including the bloody innards of a patient. Colors are interpreted by the brain in relation to each other. A surgeon becomes desensitized to red and pink things if he stares at them for a long period of time.", 
+              img: "https://cdn.pixabay.com/photo/2021/04/01/17/30/operation-theater-6142851_960_720.jpg",
+              ReadMore: "https://timesofindia.indiatimes.com/why-do-doctors-wear-green-in-the-operation-theatre/articleshow/1343287.cms#:~:text=AA-,Why%20do%20doctors%20wear%20green%20in%20the%20operation%20theatre%3F,better%20contrast%20in%20the%20environment."
+            },
+            {
+              id:id++,
               title: "The Indian team beat Pakistan in the last over to record their highest successful T20I chase against Pakistan", 
               description: " In Asia Cup 2022, India defeated Pakistan by five wickets after chasing down a 148-run target. This was India's highest successful run chase in a T20I against Pakistan. They had previously chased down a 131-run target against Pakistan on March 21, 2014. On Wednesday, India will face Hong Kong.", 
               img: "https://www.mykhel.com/img/2020/02/team-india-t20i-series-win-1580648187.jpg",
