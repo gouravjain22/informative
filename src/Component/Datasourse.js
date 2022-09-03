@@ -6,6 +6,20 @@ export const datasourse = [
           
             {
               id:id++,
+              title: "Reason behind hike in LPG price", 
+              description: "We use LPG in our home for cooking purpose. Its full form is Liquefied petroleum gases which released during the extraction of crude oil and natural gas or during refining of crude oil. Almost everywhere, the price of LPG cylinders has increased to more than 1000/-. Why the price of LPG is increasing and how it is determined. Price of LPG depends on IPP that is import parity price. Calculation of IPP is depends on International market. India uses the IPP as most of its consumption is through import. There are some reason in the hike of LPG. • Government purchase LPG in Doller, if rupee becomes weak than the LPG price increases. • If the price of cured oil increases than the LPG price increases. ", 
+              img: "https://cdn.pixabay.com/photo/2022/01/13/15/00/gas-burner-6935486_960_720.jpg",
+              ReadMore: "https://www.thehindu.com/business/Economy/domestic-lpg-price-increased-by-50-a-cylinder/article65605259.ece#:~:text=Region%2Dwise%20breakup,%E2%82%B91%2C079.00%20(%E2%82%B91%2C029)."
+            },
+            {
+              id:id++,
+              title: "The chat and job posting tools on LinkedIn are being exploited to steal user data: Report", 
+              description: "A CloudSEK report said hackers are using LinkedIn to spread data-stealing malware by posing as people working for reputed companies. A CloudSEK report said hackers are using LinkedIn to spread data-stealing malware by posing as people working for reputed companies.", 
+              img: "https://imageio.forbes.com/specials-images/imageserve/629f986172b88415ab6e2169/In-this-photo-illustration-a-LinkedIn-logo-seen-displayed-on---/960x0.jpg?format=jpg&width=960",
+              ReadMore: "https://www.cnbctv18.com/technology/linked-in-hackers-exploiting-chat-job-posting-tools-steal-user-data-14616601.htm/amp?utm_campaign=fullarticle&utm_medium=referral&utm_source=inshorts"
+            },
+            {
+              id:id++,
               title: "Why do doctors wear green in the operation theatre?", 
               description: "If we go to spectrum you will see blue and red are just opposite at their places. Doctor need to focus on red color during operation. Other Reason could be, a doctor can refresh his vision by looking at blue or green things during surgery, including the bloody innards of a patient. Colors are interpreted by the brain in relation to each other. A surgeon becomes desensitized to red and pink things if he stares at them for a long period of time.", 
               img: "https://cdn.pixabay.com/photo/2021/04/01/17/30/operation-theater-6142851_960_720.jpg",
