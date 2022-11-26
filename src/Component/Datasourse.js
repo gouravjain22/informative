@@ -12,6 +12,14 @@ export const datasourse = [
               img: "https://images.hindustantimes.com/img/2022/07/15/1600x900/how_to_file_income_tax_return_online_steps_2021_1657900153350_1657900153489_1657900153489.jpg",
               ReadMore: "https://life.futuregenerali.in/life-insurance-made-simple/tax-hacks/blogs/do-minors-need-to-pay-income-tax#:~:text=If%20the%20minor's%20income%20per,be%20treated%20as%20parent%20income."
             },
+            
+            {
+              id:id++,
+              title: "Do you know child aged less that 18 also have to pay Income Tax ", 
+              description: "Yes, This is true that child have to pay Income Tax is he/she earns more than 1500. The earning amount will be added to Parents Income and Parents have to pay the Tax ", 
+              img: "https://images.hindustantimes.com/img/2022/07/15/1600x900/how_to_file_income_tax_return_online_steps_2021_1657900153350_1657900153489_1657900153489.jpg",
+              ReadMore: "https://life.futuregenerali.in/life-insurance-made-simple/tax-hacks/blogs/do-minors-need-to-pay-income-tax#:~:text=If%20the%20minor's%20income%20per,be%20treated%20as%20parent%20income."
+            },
             {
               id:id++,
               title: "Do you know child aged less that 18 also have to pay Income Tax ", 
