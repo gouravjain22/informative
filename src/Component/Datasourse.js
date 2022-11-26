@@ -7,10 +7,10 @@ export const datasourse = [
   
             {
               id:id++,
-              title: "Do you know child aged less that 18 also have to pay Income Tax ", 
-              description: "Yes, This is true that child have to pay Income Tax is he/she earns more than 1500. The earning amount will be added to Parents Income and Parents have to pay the Tax ", 
-              img: "https://images.hindustantimes.com/img/2022/07/15/1600x900/how_to_file_income_tax_return_online_steps_2021_1657900153350_1657900153489_1657900153489.jpg",
-              ReadMore: "https://life.futuregenerali.in/life-insurance-made-simple/tax-hacks/blogs/do-minors-need-to-pay-income-tax#:~:text=If%20the%20minor's%20income%20per,be%20treated%20as%20parent%20income."
+              title: "Do you know why snakes leaves it's skin after sometime ", 
+              description: " While the snake’s body continues to grow, its skin does not. Kind of like when humans grow out of their clothes. A roomier skin layer is generated, and the old layer is discarded. Secondly, shedding, or sloughing of the skin, removes harmful parasites. ", 
+              img: "https://cdn.pixabay.com/photo/2015/02/28/15/25/speckled-rattlesnake-653642_960_720.jpg",
+              ReadMore: "https://www.iowadnr.gov/About-DNR/DNR-News-Releases/ArticleID/158/Why-Do-Snakes-Shed-Their-Skin#:~:text=First%2C%20while%20the%20snake's%20body,the%20skin%2C%20removes%20harmful%20parasites."
             },
             
             {
