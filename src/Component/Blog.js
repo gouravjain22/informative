@@ -11,7 +11,7 @@ export default function Blog() {
                 data.map((curData) =>{
                     return   <Data key={curData.id} {...curData}/>
                 })
-            }
+            }   
           
         </div>
     </> 
