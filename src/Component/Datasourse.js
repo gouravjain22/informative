@@ -274,7 +274,137 @@ export const datasourse = [
     img: "https://cdn.hswstatic.com/gif/why-is-sky-blue.jpg",
     ReadMore: "https://getbootstrap.com/docs/5.2/components/card/#horizontal",
   },
-
-];
-
-console.log(id)
+  {
+    id: id++,
+    title: "Why is the ocean blue?",
+    description: "The ocean appears blue because water absorbs colors at the red end of the light spectrum. The blue light is scattered more, making the ocean look blue from a distance.",
+    img: "https://cdn.pixabay.com/photo/2016/02/22/12/37/waves-1215449_1280.jpg",
+    ReadMore: "https://www.scientificamerican.com/article/why-is-the-ocean-blue/"
+  },
+  {
+    id: id++,
+    title: "Why do we get seasons?",
+    description: "Seasons occur due to the tilt of the Earth's axis. As the Earth orbits the sun, different areas of the planet receive varying amounts of sunlight, causing changes in temperature and weather.",
+    img: "https://upload.wikimedia.org/wikipedia/commons/5/51/Earth_seasons.svg",
+    ReadMore: "https://www.nationalgeographic.com/science/article/seasons"
+  },
+  {
+    id: id++,
+    title: "Why do we see lightning before thunder?",
+    description: "Light travels faster than sound. Since lightning is light, it reaches your eyes before thunder, which is sound, reaches your ears.",
+    img: "",
+    ReadMore: ""
+  },
+  {
+    id: id++,
+    title: "How do rainbows form?",
+    description: "Rainbows are formed when light is refracted, reflected, and dispersed through water droplets, splitting the light into its constituent colors.",
+    img: "",
+    ReadMore: ""
+  },
+  {
+    id: id++,
+    title: "Why do we have day and night?",
+    description: "Day and night occur due to the rotation of the Earth on its axis. When one side faces the sun, it experiences day, while the opposite side experiences night.",
+    img: "",
+    ReadMore: ""
+  },
+  {
+    id: id++,
+    title: "Why do leaves change color in fall?",
+    description: "Leaves change color because of a reduction in chlorophyll production. As the green pigment fades, other pigments like carotenoids and anthocyanins become more visible, causing red, yellow, and orange hues.",
+    img: "",
+    ReadMore: ""
+  },
+  {
+    id: id++,
+    title: "Why do we get hiccups?",
+    description: "Hiccups are involuntary contractions of the diaphragm muscle. They can be caused by many things, such as eating too quickly, stress, or excitement.",
+    img: "",
+    ReadMore: ""
+  },
+  {
+    id: id++,
+    title: "Why is the Earth round?",
+    description: "The Earth is round because of gravity. Over millions of years, gravity pulls matter towards the center, forming a spherical shape.",
+    img: "",
+    ReadMore: ""
+  },
+  {
+    id: id++,
+    title: "Why do we need sleep?",
+    description: "Sleep is essential for physical and mental recovery. It helps consolidate memories, repair tissues, and maintain overall health.",
+    img: "",
+    ReadMore: ""
+  },
+  {
+    id: id++,
+    title: "Why do we have different time zones?",
+    description: "Time zones exist because the Earth is divided into 24 segments, each one representing a different hour. This helps standardize time according to the Earth's rotation.",
+    img: "",
+    ReadMore: ""
+  },
+  {
+    id: id++,
+    title: "Why does ice float on water?",
+    description: "Ice floats on water because it is less dense than liquid water. As water freezes, the molecules arrange in a way that creates more space between them.",
+    img: "",
+    ReadMore: ""
+  },
+  {
+    id: id++,
+    title: "Why do cats purr?",
+    description: "Cats purr for various reasons: to communicate, show contentment, or even as a self-soothing mechanism when stressed or in pain.",
+    img: "",
+    ReadMore: ""
+  },
+  {
+    id: id++,
+    title: "Why do we have fingerprints?",
+    description: "Fingerprints are unique to each individual. They help humans grip objects more effectively and provide identification.",
+    img: "",
+    ReadMore: ""
+  },
+  {
+    id: id++,
+    title: "Why is the sky blue?",
+    description: "The sky appears blue because short wavelengths of light, like blue, scatter more in the atmosphere compared to longer wavelengths like red.",
+    img: "",
+    ReadMore: ""
+  },
+  {
+    id: id++,
+    title: "Why do we get sunburned?",
+    description: "Sunburns occur due to excessive exposure to ultraviolet (UV) rays from the sun, which damage the skin's cells.",
+    img: "",
+    ReadMore: ""
+  },
+  {
+    id: id++,
+    title: "Why do we dream?",
+    description: "Dreams occur during REM sleep when the brain processes emotions, memories, and information, often creating surreal or fragmented stories.",
+    img: "",
+    ReadMore: ""
+  },
+  {
+    id: id++,
+    title: "Why does the moon appear different sizes?",
+    description: "The moon appears larger when it's closer to the horizon due to optical illusions, but its size remains constant.",
+    img: "",
+    ReadMore: ""
+  },
+  {
+    id: id++,
+    title: "Why do dogs wag their tails?",
+    description: "Dogs wag their tails to communicate emotions such as happiness, excitement, or even nervousness, depending on the movement of the tail.",
+    img: "",
+    ReadMore: ""
+  },
+  {
+    id: id++,
+    title: "Why does the wind blow?",
+    description: "Wind is caused by air moving from areas of high pressure to areas of low pressure. The Earth's rotation also affects wind direction.",
+    img: "",
+    ReadMore: ""
+  }
+]
