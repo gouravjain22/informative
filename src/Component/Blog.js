@@ -1,19 +1,33 @@
-import {React, useState} from 'react'
+import {useEffect, useState} from 'react'
 import Data from './data'
-import {datasourse} from './Datasourse'
+import axios from 'axios'
 
 export default function Blog() {
-    const [ data] = useState(datasourse);
+const [data, setData] = useState([]);
+
+    useEffect(() => {
+      const fetchData = async () => {
+        try {
+          const response = await fetch('https://informativedb.onrender.com/informative');
+          const jsonData = await response.json();
+          setData(jsonData);
+        } catch (error) {
+          console.error("Error fetching data:", error);
+        }
+      };
+
+      fetchData();
+    }, []);
   return (
     <>
-        <div>
+      {data?.length >0 ?  <div>
             {
-                data.map((curData) =>{
+                data?.map((curData) =>{
                     return   <Data key={curData.id} {...curData}/>
                 })
             }   
           
-        </div>
+        </div>: <div>loading page</div>}
     </> 
   )
 }
