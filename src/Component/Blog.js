@@ -21,7 +21,7 @@ const [data, setData] = useState([]);
     }, []);
   return (
     <>
-      {data?.length  == 0 ?  <div>
+      {data?.length  > 0 ?  <div>
             {
                 data?.map((curData) =>{
                     return   <Data key={curData.id} {...curData}/>
