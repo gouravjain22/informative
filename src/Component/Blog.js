@@ -1,6 +1,7 @@
 import {useEffect, useState} from 'react'
 import Data from './data'
-import axios from 'axios'
+import CircularProgress from '@mui/material/CircularProgress';
+import { Container } from './Blog.styled';
 
 export default function Blog() {
 const [data, setData] = useState([]);
@@ -20,14 +21,15 @@ const [data, setData] = useState([]);
     }, []);
   return (
     <>
-      {data?.length >0 ?  <div>
+      {data?.length  == 0 ?  <div>
             {
                 data?.map((curData) =>{
                     return   <Data key={curData.id} {...curData}/>
                 })
             }   
           
-        </div>: <div>loading page</div>}
+        </div>: <Container >
+           <CircularProgress size="3rem" /></Container>}
     </> 
   )
 }
