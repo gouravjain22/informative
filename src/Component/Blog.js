@@ -1,24 +1,9 @@
-import {useEffect, useState} from 'react'
 import Data from './data'
 import CircularProgress from '@mui/material/CircularProgress';
 import { Container } from './Blog.styled';
-
+import { useSelector } from 'react-redux';
 export default function Blog() {
-const [data, setData] = useState([]);
-
-    useEffect(() => {
-      const fetchData = async () => {
-        try {
-          const response = await fetch('https://informativedb.onrender.com/informative');
-          const jsonData = await response.json();
-          setData(jsonData);
-        } catch (error) {
-          console.error("Error fetching data:", error);
-        }
-      };
-
-      fetchData();
-    }, []);
+  const data = useSelector((state)=>state.data.data)
   return (
     <>
       {data?.length  > 0 ?  <div>
