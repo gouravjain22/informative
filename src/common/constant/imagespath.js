@@ -1,0 +1,1 @@
+export const imagePath = 'https://raw.githubusercontent.com/gouravjain22/informative/main/public/images/'

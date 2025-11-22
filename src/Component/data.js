@@ -1,12 +1,11 @@
-import React from 'react'
-
+import { imagePath } from "../common/constant/imagespath"
 export default function data({title,description,img, ReadMore}) {
   return (
     <div className='container'>
     <div className="card mb-3" >
         <div className="row g-0">
             <div className="col-md-4">
-               <img src={img}  className="img-fluid rounded-start"  alt="..."/>
+               <img src={`${imagePath}/${img}`}  className="img-fluid rounded-start"  alt="..."/>
             </div>
             <div className="col-md-8">
                 <div className="card-body">
