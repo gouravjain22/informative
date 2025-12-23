@@ -17,7 +17,20 @@ function App() {
     getaction();
     effectRan.current = true;
   }
+      const fetchData = async () => {
+      try {
+        const response = await fetch('https://informativedb.onrender.com/');
+        const data = await response.json();
+        console.log(data); // Process your API data here
+      } catch (error) {
+        console.error('Error fetching data:', error);
+      }
+    };
+    fetchData();
+    const intervalId = setInterval(fetchData, 60000);
+    return () => clearInterval(intervalId);
 },[]);
+
   return (
     <>
     <Navbar title="What is the reason"></Navbar>
