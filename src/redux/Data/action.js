@@ -1,11 +1,9 @@
-import { FETCH_DATA_REQUEST } from "./const"
+import { FETCH_DATA_REQUEST, SELECTED_OPTION_TYPE } from "./const";
 
+export const fetchData = (value) => {
+  return {
+    type: FETCH_DATA_REQUEST,
+    payload: value,
+  };
+};
 
-export const fetchData = (amount) =>{
-    console.log('action clicked')
-    return{
-       type : FETCH_DATA_REQUEST,
-       payload: amount
-    }
-   
-}
